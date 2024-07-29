@@ -1,0 +1,2 @@
+C:\Users\86188\Desktop\C-PlaneFight-master\C-PlaneFight-master\PlanFight\x64\Debug\PlanFight.exe
+C:\Users\86188\Desktop\C-PlaneFight-master\C-PlaneFight-master\warthunder--aerocraft\x64\Debug\PlanFight.exe
